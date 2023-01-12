@@ -1,4 +1,7 @@
 ### Hi there 👋
+Here is Yanxiao Sun🐱, majoring in statistic, but is interested in computer science😀.
+
+- 🌱 I’m currently learning CS lectures, and I will share my work here.
 
 <!--
 **YanxiaoSun/YanxiaoSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
